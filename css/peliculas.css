@@ -1,0 +1,22 @@
+
+textarea {
+	resize: none;
+}
+
+fieldset {
+	text-align: center;
+}
+
+fieldset a {
+	width: 150px;
+        margin: 5px 0; 
+}
+
+.list_idiomas {
+        height: 500px;
+        overflow: auto;    
+        border: 1px solid #ccc;
+        padding-top: 5px;
+        border-radius: 4px;
+        text-align: center;
+}

@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Cabin:400,500);
+
+body {
+	font-family: 'Cabin', Verdana, sans-serif;
+}
+
+
+.error{
+	background-color: #E93116;
+	width: 350px;
+	text-align: center;
+	margin: 0 auto;
+	color: #FFFFFF;
+	padding: 1em 0;
+}
+
+.form-login {
+
+	font-weight: 400;
+	background: #282800;
+	width: 350px;
+	color: white;
+
+	margin: 3em auto 3em;
+
+}
+
+.campos{
+		padding: 3em;
+}
+
+.form-login label {
+	width: 100px;
+}
+
+.form-login input[name="user"] {
+	margin-bottom: 2em;
+}
+
+.form-login input{
+	border: none;
+	background-color: white;
+	height: 3em;
+	width: 100%;
+	padding-left: 1em;
+	color: #222;
+
+}
+
+.form-login button {
+	width: 100%;
+	height: 3em;
+	font-size: 1.4em;
+	border: none;
+	background: #F57A1F;
+	font-weight: 500;
+	color: white;
+}
+
+.form-login button:active {
+	box-shadow: inset 1px 1px 5px gray;
+
+}
+
