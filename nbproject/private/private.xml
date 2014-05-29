@@ -4,11 +4,7 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/application/views/frontal/templates/footer_html.php</file>
-            <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/application/controllers/admin/cines.php</file>
             <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/application/views/frontal/templates/cabecera.php</file>
-            <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/application/views/admin/add_peli.php</file>
-            <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/application/models/admin/pelicula.php</file>
-            <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/application/models/admin/paises_model.php</file>
             <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/css/frontal/style.css</file>
             <file>file:/Users/salva/Sites/movieweb.dev/httpdocs/application/views/frontal/home.php</file>
         </group>
